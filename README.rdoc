@@ -1,0 +1,7 @@
+* Ruby version - 1.9.3
+
+* Rails 4 -
+
+Just copy files to you local drive and start by rails s webrick
+
+Then point to /AngularJs-Tutorial/#
